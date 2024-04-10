@@ -1,1 +1,1 @@
-LD_PRELOAD="/home/sunchao/anaconda3/lib/libstdc++.so.6" PYTHONPATH="$(dirname $0)/..":$PYTHONPATH python /home/sunchao/SCLAV/Viodetect/tools/exps.py
+PYTHONPATH="$(dirname $0)/..":$PYTHONPATH python /home/sunchao/SCLAV/Viodetect/tools/exps.py
