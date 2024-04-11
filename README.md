@@ -10,7 +10,8 @@
 ![F1_2](https://github.com/Supersunn/SCLAV/assets/45378715/850dfe2a-bca4-4670-96d9-c762318871c3)
 #### (2) Supervised Cross-modal Contrastive Learning
 
-# Thank you for your interest in our work.
+# Citation
+#### If you find this work useful, please consider citing it.
     @inproceedings{sun2023sclav,
       title={SCLAV: Supervised Cross-modal Contrastive Learning for Audio-Visual Coding},
       author={Sun, Chao and Chen, Min and Cheng, Jialiang and Liang, Han and Zhu, Chuanbo and Chen, Jincai},
