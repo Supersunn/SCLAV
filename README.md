@@ -19,3 +19,11 @@
       pages={261--270},
       year={2023}
     }
+
+# Acknowledgement
+#### Part of our code is borrowed from the following repositories. We thank to the authors for releasing their codes. 
+
+[XDVioDet](https://github.com/Roc-Ng/XDVioDet)
+
+[AVE-ECCV18](https://bgithub.xyz/YapengTian/AVE-ECCV18)
+
