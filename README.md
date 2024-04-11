@@ -11,10 +11,10 @@
 #### (2) Supervised Cross-modal Contrastive Learning
 
 # Thank you for your interest in our work.
-@inproceedings{sun2023sclav,
-  title={SCLAV: Supervised Cross-modal Contrastive Learning for Audio-Visual Coding},
-  author={Sun, Chao and Chen, Min and Cheng, Jialiang and Liang, Han and Zhu, Chuanbo and Chen, Jincai},
-  booktitle={Proceedings of the 31st ACM International Conference on Multimedia},
-  pages={261--270},
-  year={2023}
-}
+    @inproceedings{sun2023sclav,
+      title={SCLAV: Supervised Cross-modal Contrastive Learning for Audio-Visual Coding},
+      author={Sun, Chao and Chen, Min and Cheng, Jialiang and Liang, Han and Zhu, Chuanbo and Chen, Jincai},
+      booktitle={Proceedings of the 31st ACM International Conference on Multimedia},
+      pages={261--270},
+      year={2023}
+    }
